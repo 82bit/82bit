@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamil, an <a href="https://www.linkedin.com/in/jamil-robinson-08843119a/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jamil, an <a href="https://www.linkedin.com/in/jamil-robinson-08843119a/">IT Professional</a>⚡</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
