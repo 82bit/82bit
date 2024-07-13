@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Azure Account and Storage Lab: File Management and Resource Group Operations](https://github.com/82bit/azure-prereq)
